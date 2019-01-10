@@ -1,0 +1,4 @@
+module Click_Slider2_config
+
+include Click_Slider2_types
+end.

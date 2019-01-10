@@ -1,0 +1,71 @@
+[DEVICE]
+Name=FT900
+Clock=100000000
+[BUILD_TYPE]
+Value=0
+[MEMORY_MODEL]
+Value=0
+[ACTIVE_TAB]
+Value=Click_Slider2_FT90x.c
+[USE_EEPROM]
+Value=0
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[FILES]
+File0=Click_Slider2_FT90x.c
+File1=..\..\..\library\__slider2_Driver.c
+Count=2
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+File0=Click_Slider2_FT90x.c
+File1=..\..\..\library\__slider2_Driver.c
+Count=2
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Path0=..\..\..\library\HAL\
+Path1=..\..\..\library\
+Path2=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for FT90x\Packages\mikroBUS Board Definition API\Uses\
+Count=3
+[HEADER_PATH]
+Path0=..\..\..\library\
+Path1=..\..\..\library\HAL\
+Path2=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for FT90x\Packages\mikroBUS Board Definition API\Uses\
+Count=3
+[HEADERS]
+File0=..\..\..\library\__slider2_driver.h
+File1=Click_Slider2_config.h
+File2=Click_Slider2_types.h
+Count=3
+[PLDS]
+File0=Click_Slider2.pld
+Count=1
+[Useses]
+File0=ADC
+File1=Conversions
+File2=C_String
+File3=UART
+File4=easyft90x_v7_FT900
+Count=5
+[EXPANDED_NODES]
+0=Click_Slider2_FT90x.mcpf9
+Count=1
+[LIB_EXPANDED_NODES]
+0=mikroE Libraries
+1=System Libraries
+2=ADC
+2074=mikroSDK Libraries
+2075=mikroBUS Board Definition API
+Count=5

@@ -1,0 +1,5 @@
+unit Click_Slider2_config;
+
+uses Click_Slider2_types;
+
+end.
